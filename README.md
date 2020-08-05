@@ -8,3 +8,4 @@
 - 📫 How to reach me: 619199091@qq.com
 - 😄 Pronouns: No.....
 - ⚡ Fun fact: I dont know
+- 我想谈恋爱

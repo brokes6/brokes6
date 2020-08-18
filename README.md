@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://img.shields.io/badge/个人博客-Android笔记-green.svg)](https://brokes6.github.io)
 - 🔭 I’m currently working on BiliBili(In production)
 - 🌱 I’m currently learning Android
 - 👯 I already have a partnership

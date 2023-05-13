@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokes6&layout=compact)](https://github.com/brokes6/CloudMusic)
 ```kotlin
 现在主要都是在用Kotlin拉(也正在学习Compose中)
+😭失业求捞
 ```
 
 - 📫 How to reach me: a619199091@gmail.com

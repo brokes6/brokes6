@@ -1,5 +1,3 @@
-### Look 👋
-[![](https://img.shields.io/badge/个人博客-Android笔记-green.svg)](https://brokes6.github.io)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brokes6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 个人推荐项目
